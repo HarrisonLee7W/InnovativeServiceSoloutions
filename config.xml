@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
+	id		= "com.innovative.service.soloutions"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>Innovative Service Soloutions</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		Client application for Innovative Service Soloutions.
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://harrisonlee7.com"
+		email="HarrisonLee7W@Gmail.com">
+		Harrison Williams
 	</author>
 
 	<gap:platforms>
